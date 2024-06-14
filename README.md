@@ -16,6 +16,10 @@ Welcome to my GitHub profile! Here you'll find a collection of projects ranging 
 
 ### 4. [ImageToAsciiArt](https://github.com/ariel-pi/ImageToAsciiArt)
 **Description:** Java software for converting images to ASCII art.
+
+### 5. [HandwrittenDigitRecognizer](https://github.com/ariel-pi/HandwrittenDigitRecognizer)
+This C++ project aims to analyze images of a manuscript stored in a binary file and identify the digits that were written. It provides functionalities for image processing, matrix operations, and implementing a multi-layer perceptron (MLP) network for digit recognition.
+
 ## Contact
 Feel free to reach out for any inquiries or collaborations.
 
